@@ -5,13 +5,13 @@
 
 ## 팀원 
 - FrontEnd
-  * 김재혁 [Github](https://github.com/pol-dev-shinroo) [블로그](https://junehan-dev.github.io/)
-  * 박용태 [Github]() [블로그]()
+  * 김재혁 [Github](https://github.com/pol-dev-shinroo) / [블로그](https://junehan-dev.github.io/)
+  * 박용태 [Github]() / [블로그]()
 
 - BackEnd
-  * 박재철 [Github](https://github.com/reload1bronze) [블로그]()  
-  * 박세명 [Github](https://github.com/diasm3) [블로그](https://diasm3.github.io)
-  * 기우석 [Github](https://github.com/moto4321) [블로그](https://woooseogi.tistory.com/)
+  * 박재철 [Github](https://github.com/reload1bronze) / [블로그]()  
+  * 박세명 [Github](https://github.com/diasm3) / [블로그](https://diasm3.github.io)
+  * 기우석 [Github](https://github.com/moto4321) / [블로그](https://woooseogi.tistory.com/)
 
 - Designer
   * 강윤지 [블로그]()
