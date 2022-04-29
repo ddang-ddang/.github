@@ -1,7 +1,7 @@
 ## 6조 실전프로젝트 👋
 
 ## Notion Page
-- [노션 페이지 이동](https://www.notion.so/t-1/99-6-D-1-7426a2b192554898b6c41d2e193b2023)
+- [노션 페이지 이동](https://t-1.notion.site/t-1/99-6-D-1-7426a2b192554898b6c41d2e193b2023)
 
 ## 팀원 
 - FrontEnd
