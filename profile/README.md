@@ -15,4 +15,4 @@
 
 - Designer
   * 강윤지 [Blog]()
-  * 장서윤 [Blog]()
+  * 박주영 [Blog]()
